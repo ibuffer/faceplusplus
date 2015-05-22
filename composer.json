@@ -1,0 +1,25 @@
+{
+    "name": "ibuffer/faceplusplus",
+    "description": "Face++ SDK",
+    "keywords": [
+        "face++",
+        "faceplusplus",
+        "sdk"
+    ],
+    "license": "MIT",
+    "require": {
+        "php":">=5.3"
+    },
+    "authors": [
+        {
+            "name": "Lynn",
+            "email": "lynn1212@vip.qq.com"
+        }
+    ],
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {
+            "Ibuffer\\": "src/"
+        }
+    }
+}
